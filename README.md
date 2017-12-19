@@ -1,6 +1,6 @@
 # Travelling Salesman .Net Core 2 Example
 
-This is an exercise to solve the travelling salesman problem, namely, travelling all locations in the minimum l
+This is an exercise to solve the travelling salesman problem, namely, starting from a home location and travelling all the other specified locations on the graph, in the minimum total distance/time possible.
 
 ## Algorithm details:
 
