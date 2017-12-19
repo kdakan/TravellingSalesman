@@ -29,9 +29,9 @@ repeat until no improvement is made {
 
 ## Description of the classes in this solution:
 
-* TravellingSalesmanProblem class defines the locations, finds the distances between each location using Google Maps api, and finds an efficient route using the algorith described above.
+* TravellingSalesmanProblem class defines the locations, finds the distances between each location using Google Maps api, and finds an efficient route using the algorithm described above.
 
-* Location class holds the name, address, and the distances to each of the other location in the graph, and finds the nearest unvisited neighbor location.
+* Location class holds the name, address, and the distances to each of the other location in the graph, and finds the nearest unvisited neighbor location from this location.
 
-* Route class holds the travelled route as a List<Location> and computes the total length of the route.
+* Route class holds the travelled route as a list of locations and computes the total length of the route.
 
