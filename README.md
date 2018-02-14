@@ -1,4 +1,4 @@
-# Travelling Salesman .Net Core 2 Example
+# Travelling Salesman Solution in C#
 
 This is an exercise to solve the travelling salesman problem, namely, starting from a home location and travelling all the other specified locations on the graph, in the minimum total distance/time possible.
 
